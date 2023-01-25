@@ -1,0 +1,16 @@
+<ui:ContentDialog xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="using:FluentAvaloniaContentDialogBug"
+             xmlns:ui="using:FluentAvalonia.UI.Controls"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="FluentAvaloniaContentDialogBug.CustomContentDialog">
+    <ui:ContentDialog.Resources>
+        <ResourceDictionary>
+            <!-- <ControlTheme x:Key="{x:Type local:CustomContentDialog}" -->
+            <!--               TargetType="local:CustomContentDialog" -->
+            <!--               BasedOn="{StaticResource {x:Type ui:ContentDialog}}" /> -->
+        </ResourceDictionary>
+    </ui:ContentDialog.Resources>
+</ui:ContentDialog>

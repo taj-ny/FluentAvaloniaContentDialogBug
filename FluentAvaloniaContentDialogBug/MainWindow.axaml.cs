@@ -16,7 +16,7 @@ namespace FluentAvaloniaContentDialogBug
         {
             new ContentDialog()
             {
-                CloseButtonText = "e"
+                CloseButtonText = "Close"
             }.ShowAsync();
         }
 
@@ -24,7 +24,7 @@ namespace FluentAvaloniaContentDialogBug
         {
             new CustomContentDialog()
             {
-                CloseButtonText = "e"
+                CloseButtonText = "Close"
             }.ShowAsync();
         }
     }

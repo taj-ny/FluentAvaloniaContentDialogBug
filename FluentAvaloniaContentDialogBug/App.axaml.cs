@@ -8,6 +8,7 @@ namespace FluentAvaloniaContentDialogBug
     {
         public override void Initialize()
         {
+            this.AttachDevTools();
             AvaloniaXamlLoader.Load(this);
         }
 

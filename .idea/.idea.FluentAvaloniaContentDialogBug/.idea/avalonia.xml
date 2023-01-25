@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="FluentAvalonia/FluentAvalonia/Styling/ControlThemes/FAControls/ContentDialogStyles.axaml" value="FluentAvaloniaContentDialogBug/FluentAvaloniaContentDialogBug.csproj" />
+        <entry key="FluentAvaloniaContentDialogBug/App.axaml" value="FluentAvaloniaContentDialogBug/FluentAvaloniaContentDialogBug.csproj" />
+        <entry key="FluentAvaloniaContentDialogBug/CustomButton.axaml" value="FluentAvaloniaContentDialogBug/FluentAvaloniaContentDialogBug.csproj" />
+        <entry key="FluentAvaloniaContentDialogBug/CustomContentDialog.axaml" value="FluentAvaloniaContentDialogBug/FluentAvaloniaContentDialogBug.csproj" />
+        <entry key="FluentAvaloniaContentDialogBug/MainWindow.axaml" value="FluentAvaloniaContentDialogBug/FluentAvaloniaContentDialogBug.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
